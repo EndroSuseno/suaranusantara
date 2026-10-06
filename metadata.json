@@ -1,0 +1,6 @@
+{
+  "name": "SuaraNusantara - Text-to-Speech Penutur Asli Indonesia",
+  "description": "Konversi teks ke suara penutur asli Indonesia alami menggunakan Gemini 3.8 Flash TTS dengan gaya tutur mengalir layaknya manusia menjelaskan langsung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
